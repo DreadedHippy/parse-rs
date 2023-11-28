@@ -71,7 +71,7 @@ pub fn parse(input_string: String){
 		output_string.push_str("</p>");
 	}
 
-	println!("{:?}", format_stack);
+	// println!("{:?}", format_stack);
 	println!("{}", output_string);
 }
 
