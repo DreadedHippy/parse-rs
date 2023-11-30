@@ -4,10 +4,21 @@
 <h4>Test for h4</h4>
 <h5>Test for <b>h5</b></h5>
 <h6>Test for h6</h6>
+
+
 <ul>
 	<li>Unordered list test: Item 1</li>
 	<li>Unordered list test: Item 2</li>
 	<li>Unordered list test: Item 2</li>
 	<li>Unordered list test: Item 4</li>
+
+
+<hr/>
+
 </ul>
-Paragraph <i>test</i>
+Paragraph <i>test</i>Bold <b>test</b>Underline <u>test</u>Code <code>test</code>
+<a href="https://www.example.com">title</a>
+<a href="https://www.example.com">title</a>
+<img src="image.jpg" alt="alt text" />
+
+
